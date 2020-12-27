@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="prefijoNuevo">
+    <file>noimage.png</file>
+    <file>logoMySql.png</file>
+    <file>logoNasa.png</file>
+    <file>asteroid2.jpg</file>
+    <file>orbita.jpg</file>
+    <file>menu.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+https://static6.depositphotos.com/1162342/659/i/450/depositphotos_6590171-stock-photo-meteor-tumbling-towards-earth.jpg
+
+<iframe name="_ddajaxtabsiframe-petsdivcontainer" src="about:blank" class="tabcontentiframe" marginwidth="0" marginheight="0" scrolling="NO" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="100%" height="500" frameborder="0"></iframe>
+https://www.mangovideo.club/get_file/7/2194c76e49a63f537bdba30fdff2492337ffcfa535/4000/4480/4480.mp4/?br=565&embed=true&rnd=1603017924887
+
+
+
+& conda install --name MyDjangoEnv pylint -y
+
+https://pythonspot.com/pyqt5-image/
+https://www.spacereference.org/asteroid/465633-2009-jr5
+https://www.3engine.net/wp/2015/02/clases-abstractas-en-python/
+https://www.unirioja.es/cu/jearansa/0809/archivos/EIPR_Tema04.pdf
+https://cneos.jpl.nasa.gov/
+https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2465633
+https://api.nasa.gov/neo/rest/v1/feed?start_date=2015-09-07&end_date=2015-09-08&api_key=DEMO_KEY
+https://api.nasa.gov/neo/rest/v1/neo/browse?api_key=DEMO_KEY
+https://api.nasa.gov/
+
+pyuic5 -x interace_ui -o interface_ui.py

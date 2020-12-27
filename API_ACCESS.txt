@@ -1,0 +1,26 @@
+@Stephania @Sergio Abella yo podría ser backup durante 2 horas a cualquier hora antes de las 5:30 pm. Es que  a las 5:30 tengo el examen de finalización que estoy haciendo de Python. 
+
+
+¿Aparece algo en su registro de errores de php cuando esto sucede?
+¿Cuál es el nombre de la insignia de Acclaim que está emitiendo (o mejor, la identificación de la plantilla de insignia)?
+¿Tiene una fecha y hora aproximadas en las que se encontró con el problema (¿cuándo debería haberse emitido una insignia pero no lo fue?)
+
+https: // [su ruta de moodle] /admin/cron.php
+("su ruta de moodle" será algo así como "dominio.com/moodle"). Eso también proporcionará información de depuración adicional y posiblemente explicará qué está fallando.
+
+805291892
+
+
+pyuic5-rcc -o imgs1.qrc imgs1.py
+
+
+Your API key for ggalindo@acreditta.com is:
+ooyOyfc1LD91FDtXEpzSscSOH8m6Iaq0QDaCFgX7
+
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nasa.gov/planetary/apod?api_key=ooyOyfc1LD91FDtXEpzSscSOH8m6Iaq0QDaCFgX7
+
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+Account Email: ggalindo@acreditta.com
+Account ID: 9b935241-594b-43e3-8efa-dd787e7f9aaf

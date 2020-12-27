@@ -1,0 +1,13 @@
+@Stephania @Sergio Abella yo podría ser backup durante 2 horas a cualquier hora antes de las 5:30 pm. Es que  a las 5:30 tengo el examen de finalización que estoy haciendo de Python. 
+
+
+¿Aparece algo en su registro de errores de php cuando esto sucede?
+¿Cuál es el nombre de la insignia de Acclaim que está emitiendo (o mejor, la identificación de la plantilla de insignia)?
+¿Tiene una fecha y hora aproximadas en las que se encontró con el problema (¿cuándo debería haberse emitido una insignia pero no lo fue?)
+
+https: // [su ruta de moodle] /admin/cron.php
+("su ruta de moodle" será algo así como "dominio.com/moodle"). Eso también proporcionará información de depuración adicional y posiblemente explicará qué está fallando.
+
+805291892
+
+pyuic5-rcc -o imgs1.qrc imgs1.py
